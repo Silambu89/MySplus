@@ -1,0 +1,13 @@
+/.vs
+/SplusReport/.vs
+/SplusReport/bin
+/SplusReport/obj
+/SplusReport/SplusReport - Backup.csproj
+/SplusReport/AppLog
+/SplusPersistence/bin
+/SplusPersistence/obj
+/SplusLoggerService/bin
+/SplusLoggerService/obj
+/SplusService/obj
+/SplusService/bin
+/.gitignore
